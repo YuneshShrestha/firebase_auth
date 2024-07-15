@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "782266172302",
+    "firebase_url": "https://fir-fa445-default-rtdb.firebaseio.com",
+    "project_id": "fir-fa445",
+    "storage_bucket": "fir-fa445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782266172302:android:9b2b2c3adf0513a6d0dadf",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkgfuN1-a0Nf9j5UGED_ob48v3S71BqTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
